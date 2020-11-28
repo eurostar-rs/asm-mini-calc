@@ -19,7 +19,8 @@ First, you need to install the template maker:
 - download the template maker in /home/{user} directory (`wget http://cs.unk.edu/~miller/templateMake.tar.gz`);
 - extract it (`tar zxf templateMake.tar.gz`);
 - install the template maker (`tar zxf templateMake.tar.gz`);
-- make a directory located in /home/{user} with the name `projects` (`mkdir projects`).
+- make a directory located in /home/{user} with the name `projects` (`mkdir projects`);
+- cd into the new `projects` directory (`cd projects`).
 
 Then, you can clone the repository and use the mini calculator:
 
