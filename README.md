@@ -26,5 +26,5 @@ Then, you can clone the repository and use the mini calculator:
 
 - clone the repository using `git clone https://github.com/GetALife/asm-mini-calc`;
 - cd to the cloned repository (`cd asm-mini-calc`);
-- do `make` or `nasm -f elf assembly.asm -o assembly.o && gcc -m32 -o assembly assembly.o asm_io.o /home/eurostar/templateMake/driver.c`;
+- do `make` or `nasm -f elf assembly.asm -o assembly.o && gcc -m32 -o assembly assembly.o asm_io.o /home/{user}/templateMake/driver.c`;
 - run the mini calculator with `./assembly`.
