@@ -18,7 +18,7 @@ First, you need to install the template maker:
 - install the libraries (`sudo apt install nasm gcc-multilib`);
 - download the template maker in /home/{user} directory (`wget http://cs.unk.edu/~miller/templateMake.tar.gz`);
 - extract it (`tar zxf templateMake.tar.gz`);
-- install the template maker (`tar zxf templateMake.tar.gz`);
+- install the template maker (`./templateMake/fix.sh`);
 - make a directory located in /home/{user} with the name `projects` (`mkdir projects`);
 - cd into the new `projects` directory (`cd projects`).
 
